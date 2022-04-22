@@ -1,0 +1,1 @@
+-contains front-end pages for a site that calls to the localhost that stores various places and displays them using components from react bootstrap
